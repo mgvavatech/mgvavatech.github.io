@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
+    <content content-id="why-livewords">
+        <display-name xml:lang="en">Why LiveWords?</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="en">Why LiveWords</page-title>
+            <page-description xml:lang="en">Why customers choose LiveWords</page-description>
+        </page-attributes>
+        <description xml:lang="en">Test 2. By <b>far</b> the largest effort of publishing in <strong>multiple languages</strong> is managing the test workflow around content translation. LiveWords automates the translation workflow of your web content, handling all logistics each time something is changed.</description>
+    </content>
+    <content content-id="on-demand" id="hehe" lwSkipTranslate="true">
+        <display-name xml:lang="en">On-demand</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="en">On-demand</page-title>
+            <page-description xml:lang="en">On-demand cloud translation management</page-description>
+        </page-attributes>
+        <description xml:lang="en">LiveWords is cloud software for better translation management. LiveWords automates the change process with managing multilingual content by adding capabilities such as change detection, content distribution, reusing translations and translation analytics.</description>
+    </content>
+    <content content-id="reuse-translated-content">
+        <display-name xml:lang="en">REUSE TRANSLATED CONTENT</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="en">Reuse translated content</page-title>
+            <page-description xml:lang="en">Share content across your team</page-description>
+        </page-attributes>
+        <description xml:lang="en">Keep sharing translations across your team, even if your team changes. LiveWords adds the industry-standard translation tooling needed to your infrastructure. All assets you build over time are yours and survive any changes in team members or translation agency.</description>
+    </content>
+    <content content-id="scale-your-workflow">
+        <display-name xml:lang="en">SCALE YOUR WORKFLOW</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <page-attributes>
+            <page-title xml:lang="en">Scale your Workflow</page-title>
+            <page-description xml:lang="en">Automate all manual effort</page-description>
+        </page-attributes>
+        <description xml:lang="en">LiveWords removes the traditional barriers and complexities of managing changing content in multiple languages. You’ve probably been there. Capturing changed content, sending the right content to the right people, handling corrections or feedback, repeatedly importing data or even manually copy-pasting text. All this occurs each time you update content.</description>
+    </content>
+</library>
