@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
     <content content-id="why-livewords">
-        <display-name xml:lang="en">Why LiveWords? Version 7</display-name>
-        <online-flag>true</online-flag>
-        <searchable-flag>true</searchable-flag>
-        <page-attributes>
-            <page-title xml:lang="en">Why LiveWords</page-title>
-            <page-description xml:lang="en">Why customers choose LiveWords</page-description>
-        </page-attributes>
         <description xml:lang="en">Test 2. By &lt;b&gt;far&lt;/b&gt; the largest effort of publishing in &lt;strong&gt;multiple languages&lt;/strong&gt; is managing the test workflow around content translation. LiveWords automates the translation workflow of your web content, handling all logistics each time something is changed.</description>
     </content>
 </library>
