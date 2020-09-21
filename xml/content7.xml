@@ -8,6 +8,6 @@
             <page-title xml:lang="en">Why LiveWords</page-title>
             <page-description xml:lang="en">Why customers choose LiveWords</page-description>
         </page-attributes>
-        <description xml:lang="en">Test 2. By %lt;b%gt;far</b> the largest effort of publishing in <strong>multiple languages</strong> is managing the test workflow around content translation. LiveWords automates the translation workflow of your web content, handling all logistics each time something is changed.</description>
+        <description xml:lang="en">Test 2. By %lt;b%gt;far%lt;/b%gt the largest effort of publishing in %lt;strong%gtmultiple languages%lt;/strong%gt is managing the test workflow around content translation. LiveWords automates the translation workflow of your web content, handling all logistics each time something is changed.</description>
     </content>
 </library>
