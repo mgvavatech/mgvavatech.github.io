@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31">
     <content content-id="why-livewords">
-        <display-name xml:lang="en">Why LiveWords? Version 8</display-name>
+        <display-name xml:lang="en">Why LiveWords? Version 7</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>true</searchable-flag>
         <page-attributes>
