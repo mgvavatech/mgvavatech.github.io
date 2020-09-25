@@ -3,4 +3,7 @@
     <content content-id="why-livewords">
         <description xml:lang="en">Test 2. By &lt;b&gt;far&lt;/b&gt; the largest effort of publishing in &lt;strong&gt;multiple languages&lt;/strong&gt; is managing the test workflow around content translation. &lt;img alt='test image'&gt; LiveWords automates the translation workflow of your web content, handling all logistics each time something is changed. &lt;img title='test2'&gt;</description>
     </content>
+    <content content-id="why-livewords">
+        <description xml:lang="en"> Go &lt;b&gt;test&lt;/b&gt; the largest effort of testing in &lt;strong&gt;multiple tests&lt;/strong&gt; is managing the test workflow around content testing. &lt;img alt='test image'&gt; LiveWords automates the testing workflow of your test content, handling all logistics each time something is changed. &lt;img title='test2'&gt;</description>
+    </content>
 </library>
