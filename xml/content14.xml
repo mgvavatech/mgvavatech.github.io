@@ -6,7 +6,7 @@
         <searchable-flag>true</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">2/3</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">2/3 </custom-attribute>
         </custom-attributes>
         <folder-links>
             <classification-link folder-id="page-includes"/>
