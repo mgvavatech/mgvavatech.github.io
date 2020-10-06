@@ -2,9 +2,6 @@
 <library>
     <content content-id="why-livewords">
         <description xml:lang="en">New, unique &lt;b&gt;translatons&lt;/b&gt;  are all about &lt;strong&gt;creating translations&lt;/strong&gt; that haven't been put into the translation memory, yet. &lt;img title='test2'&gt;</description>
-    </content>
-    
-    <content content-id="short-number">
         <description xml:lang="en">2/3</description>
     </content>
 </library>
