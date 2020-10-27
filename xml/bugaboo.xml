@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Mari-Liis Muiste</Author>
+  <LastAuthor>Menekse Koysuren</LastAuthor>
+  <TotalTime>0</TotalTime>
+  <Created>2020-10-19T08:21:40Z</Created>
+  <LastSaved>2020-10-19T08:33:32Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10425</WindowHeight>
+  <WindowWidth>19425</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+   <Interior ss:Color="#FFCCCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="23" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:Height="409.5">
+    <Cell ss:StyleID="s16"><Data ss:Type="String">Dear retailer,&#10;&#10;We want to get you excited about Bugaboo Black Friday! The biggest savings of the year on the most beloved Bugaboo products are almost here; that's why we're offering up to -XX% on iconic strollers like the Bugaboo Bee 5, Bugaboo Cameleon 3 Plus, Bugaboo Ant, and a selection of must-have accessories.&#10;&#10; -XX% Bugaboo Bee 5&#10;The ultimate comfort city stroller for urban parents.&#10;&#10; -XX% Bugaboo Cameleon 3 Plus&#10;The original Bugaboo stroller and an all-terrain favorite.&#10;&#10; -XX% Bugaboo Ant&#10;The most versatile ultra compact stroller packed with incredible features.&#10;&#10; -XX% Bugaboo accessories&#10;A fantastic range of helpful products for all your strolling adventures.&#10;&#10; How to order from Bugaboo Business?&#10;The Bugaboo Black Friday offers will be available via our Bugaboo Business platform by submitting a coupon code at checkout. Please ask your Bugaboo account manager to share the coupon code with you.&#10;&#10;Product images&#10;Now available in our image library: https://bugaboo.bynder.com/&#10;&#10;Campaign images&#10;Available on request via our marketing team. &#10;&#10;Online banners&#10;Available on request via our marketing team.&#10;&#10;Social media kit&#10;Available on request via our marketing team.&#10;&#10;For any specific or tailor-made content, please get in touch with your Bugaboo account manager.&#10;&#10;Best regards,&#10;The Bugaboo Team&#10;</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Up to -XX% in iconic strollers</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Up to -XX% in iconic strollers</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String" x:Ticked="1"> -XX% Bugaboo Bee 5</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String" x:Ticked="1"> -XX% Bugaboo Ant</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell ss:StyleID="s17"><Data ss:Type="String" x:Ticked="1"> -XX% Bugaboo Cameleon 3 Plus</Data></Cell>
+   </Row>
+   <Row ss:Height="408">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Black Friday offer! Find the biggest savings of the year at &lt;name retailer &gt; on iconic Bugaboo strollers like Bugaboo Bee 5, Bugaboo Cameleon 3 Plus, and Bugaboo Ant! Explore the world together in comfort and style! Buy now at &lt;name retailer&gt; #bugabooblackfriday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Up to -XX%</Data></Cell>
+   </Row>
+   <Row ss:Height="369.75">
+    <Cell ss:StyleID="s19"><Data ss:Type="String">Time is running out! Don't miss your chance to enjoy strolling around with a new Bugaboo Bee 5, Bugaboo Cameleon 3 plus and Bugaboo Ant! Great Bugaboo savings end at midnight. Buy now at &lt;name retailer&gt; #bugabooblackfriday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Cyber Monday</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Up to -XX%</Data></Cell>
+   </Row>
+   <Row ss:Height="51">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Plus extra -XX% on outlet</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="38.25">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Bugaboo Black Friday</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Cyber Monday</Data></Cell>
+   </Row>
+   <Row ss:Height="25.5">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Flashback Friday</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
