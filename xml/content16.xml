@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <content content-id="why-livewords">
+        <description xml:lang="en">
+<nl>
+        <data />
+        <content>
+          <element>
+            <data />
+            <content>
+              <element>
+                <data />
+                <marks />
+                <value>•</value>
+                <nodeType>text</nodeType>
+              </element>
+              <element>
+                <data>
+                  <uri>https://abnamro.sharepoint.com/sites/informatiebank-policyframework/SitePages/Policies/102-25-26_Anti-Bribery-and-Corruption-Policy.aspx</uri>
+                </data>
+                <content>
+                  <element>
+                    <data />
+                    <marks />
+                    <value>Hier</value>
+                    <nodeType>text</nodeType>
+                  </element>
+                </content>
+                <nodeType>hyperlink</nodeType>
+              </element>
+              <element>
+                <data />
+                <marks />
+                <value>vind je de Anti-Bribery and Corruption Policy. &#xD;
+•	De ‘Third Party &amp; outsourcing policy’ vind je</value>
+                <nodeType>text</nodeType>
+              </element>
+              <element>
+                <data>
+                  <uri>https://abnamro.sharepoint.com/sites/informatiebank-policyframework/Shared Documents/Policies/108-70-20-Third-Party-and-Outsourcing-Policy.pdf</uri>
+                </data>
+                <content>
+                  <element>
+                    <data />
+                    <marks />
+                    <value>hier</value>
+                    <nodeType>text</nodeType>
+                  </element>
+                </content>
+                <nodeType>hyperlink</nodeType>
+              </element>
+              <element>
+                <data />
+                <marks />
+                <value>.&#xD;
+•	Indien je iets opmerkt dat je wilt melden, heb je de volgende mogelijkheden:&#xD;
+        - Nederlandse collega’s die een ongebruikelijke transactie willen melden: IMOT.&#xD;
+        - Algemene vragen en vragen over klanten: (Lokale) business Compliance.&#xD;
+        - Vragen over de Anti-Bribery and Corruption Policy: Security &amp; Integrity Management&#xD;
+        - Om een misstand of iets ongebruikelijks op een vertrouwelijke wijze te melden maak je een</value>
+                <nodeType>text</nodeType>
+              </element>
+              <element>
+                <data>
+                  <uri>https://www.abnamro.com/en/contact-abn-amro/whistleblowing/report/index.html</uri>
+                </data>
+                <content>
+                  <element>
+                    <data />
+                    <marks />
+                    <value>klokkenluidersmelding</value>
+                    <nodeType>text</nodeType>
+                  </element>
+                </content>
+                <nodeType>hyperlink</nodeType>
+              </element>
+              <element>
+                <data />
+                <marks />
+                <value>.</value>
+                <nodeType>text</nodeType>
+              </element>
+            </content>
+            <nodeType>paragraph</nodeType>
+          </element>
+        </content>
+        <nodeType>document</nodeType>
+      </nl>
+      </description>
+        <description xml:lang="en">2/3</description>
+        <span></span>
+        <div>12321211</div>
+    </content>
+</library>
